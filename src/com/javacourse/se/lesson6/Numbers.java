@@ -25,6 +25,4 @@ public class Numbers {
         System.out.println(g);
         System.out.println(h);
     }
-
-
 }
